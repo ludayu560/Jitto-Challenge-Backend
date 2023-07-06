@@ -1,0 +1,10 @@
+{
+    "name": "register-login-system-backend",
+    "author": "ludayu",
+    "version": "1.0.0",
+    "dependencies": {
+        "aws-sdk": "^2.1410.0",
+        "bcryptjs": "2.4.3",
+        "jsonwebtoken": "^8.5.1"
+    }
+}
